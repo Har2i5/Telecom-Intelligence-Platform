@@ -1,0 +1,41 @@
+equipment_type,failure_type,location_country,provider_id,detected_by,affected_customers_count
+base_station,power,Kenya,GlobeTel,manual inspection,680
+switch,hardware,Canada,TCom-02,automated monitoring,190
+switch,software,USA,TCom-01,automated monitoring,16
+fiber_optic_cable,hardware,Germany,NetWave,automated monitoring,17500
+base_station,power,Kenya,GlobeTel,manual inspection,4100
+switch,software,Germany,NetWave,automated monitoring,35
+router,software,USA,TCom-01,automated monitoring,0
+base_station,environmental,South Africa,GlobeTel,manual inspection,220
+fiber_optic_cable,hardware,Switzerland,NetWave,manual inspection,410
+router,hardware,Germany,NetWave,automated monitoring,380
+router,software,USA,TCom-01,automated monitoring,35
+router,hardware,USA,NetWave,automated monitoring,2100
+base_station,power,Sweden,GlobeTel,manual inspection,255
+switch,software,Australia,TCom-02,automated monitoring,0
+router,software,USA,TCom-01,automated monitoring,0
+base_station,environmental,Kenya,GlobeTel,manual inspection,2100
+base_station,environmental,Australia,GlobeTel,manual inspection,2300
+base_station,environmental,Australia,GlobeTel,manual inspection,1200
+base_station,environmental,Kenya,GlobeTel,manual inspection,3500
+fiber_optic_cable,hardware,Germany,NetWave,automated monitoring,9500
+base_station,power,Argentina,GlobeTel,manual inspection,290
+fiber_optic_cable,hardware,Sweden,NetWave,manual inspection,3800
+base_station,environmental,Kenya,GlobeTel,manual inspection,10400
+switch,software,USA,TCom-01,automated monitoring,22
+base_station,hardware,Canada,GlobeTel,automated monitoring,620
+router,software,USA,TCom-01,automated monitoring,0
+switch,network,USA,TCom-01,automated monitoring,320
+router,hardware,USA,NetWave,automated monitoring,1500
+base_station,power,Kenya,GlobeTel,manual inspection,980
+fiber_optic_cable,environmental,South Africa,GlobeTel,manual inspection,12000
+fiber_optic_cable,environmental,UAE,GlobeTel,manual inspection,9100
+fiber_optic_cable,environmental,Germany,NetWave,manual inspection,8000
+switch,hardware,Japan,NetWave,automated monitoring,930
+switch,network,Japan,NetWave,automated monitoring,480
+base_station,environmental,Iceland,GlobeTel,manual inspection,1100
+base_station,environmental,Kenya,GlobeTel,manual inspection,3200
+base_station,hardware,South Africa,GlobeTel,automated monitoring,720
+router,software,Argentina,TCom-02,automated monitoring,0
+fiber_optic_cable,hardware,UAE,GlobeTel,manual inspection,1750
+base_station,hardware,Sweden,GlobeTel,manual inspection,830
