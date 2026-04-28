@@ -4,7 +4,7 @@ An interactive data and machine learning platform designed to **analyze telecom 
 
 ---
 
-## 🚨 Problem Statement
+## Problem Statement
 
 Telecommunication networks experience frequent equipment failures across multiple regions, providers, and device types.
 
@@ -24,17 +24,17 @@ This leads to:
 
 ---
 
-## 💡 Solution
+## Solution
 
 This platform transforms raw telecom failure logs into **actionable intelligence** by combining:
 
-### 🔍 Data Analytics
+### Data Analytics
 
 * Failure distribution by **country, equipment, and type**
 * Customer impact analysis
 * Recovery performance insights
 
-### ⚠️ Risk Ranking System
+### Risk Ranking System
 
 * Ranks **countries or equipment** based on:
 
@@ -43,7 +43,7 @@ This platform transforms raw telecom failure logs into **actionable intelligence
   * Recovery time
 * Helps decision-makers **prioritize interventions**
 
-### 🤖 Machine Learning Prediction
+### Machine Learning Prediction
 
 * Predicts **failure severity (Warning → Critical)**
 * Works in:
@@ -54,13 +54,13 @@ This platform transforms raw telecom failure logs into **actionable intelligence
 
 ---
 
-## 🌍 Live Application
+## Live Application
 
 👉 **[Open the App](https://telecom-intelligence-platform-sod8ptpvdoefartnsu7lua.streamlit.app/)**
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 ### 1. Data Processing
 
@@ -98,18 +98,18 @@ This platform transforms raw telecom failure logs into **actionable intelligence
 
 ---
 
-## 📊 Key Features
+## Key Features
 
-* 🌍 Interactive global failure visualization
-* 📊 Equipment & failure type analysis
-* 📈 Customer impact distribution insights
-* ⚠️ Intelligent risk ranking system
-* 🤖 Real-time ML severity prediction
+* Interactive global failure visualization
+* Equipment & failure type analysis
+* Customer impact distribution insights
+* Intelligent risk ranking system
+* Real-time ML severity prediction
 * 📂 Batch prediction via CSV upload
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Frontend / App:** Streamlit
 * **Data Processing:** Pandas, NumPy
@@ -123,7 +123,7 @@ This platform transforms raw telecom failure logs into **actionable intelligence
 
 This project uses the **Telecommunications Equipment Failure Logs** dataset.
 
-### 📌 Description
+### Description
 
 The dataset contains detailed logs of telecom equipment failures including:
 
@@ -141,7 +141,7 @@ It enables:
 
 ---
 
-## 🙏 Data Source & Credit
+##  Data Source & Credit
 
 Dataset provided by **Go Mask**
 
@@ -151,14 +151,14 @@ Dataset provided by **Go Mask**
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 * This project is a **simulation / analytical tool**, not a production telecom system
 * Predictions are based on historical patterns and may not reflect real-world outcomes
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Real-time streaming data integration
 * Geo-level (lat/long) failure mapping
